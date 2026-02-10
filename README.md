@@ -22,3 +22,9 @@ java Main
 - Integrate MySQL using JDBC  
 - Add login system  
 - Build GUI using JavaFX/Swing
+
+## 🧩 Concepts Used
+- Object-Oriented Programming (OOPs)
+- Exception Handling
+- File I/O
+- Collections Framework (ArrayList)
