@@ -2,6 +2,11 @@
 
 A console-based Java application to manage employee records with full CRUD functionality.
 
+## 📂 Project Structure
+- Main.java – Application entry point and menu handling  
+- Employee.java – Employee model/entity  
+- EmployeeService.java – Business logic and CRUD operations  
+
 ## 🚀 Features
 - Add new employee records  
 - View all employees  
